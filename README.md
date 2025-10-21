@@ -3,7 +3,7 @@
 
 ### Visi Proyek
 
-Tujuan kami bukan hanya membuat "website tugas" — tapi membangun sebuah etalase digital yang fungsional dan menjual. Kami ingin menciptakan sebuah *landing page* yang tidak hanya cantik secara visual, tapi juga mampu mengkonversi pengunjung menjadi pelanggan.
+Tujuan kami membuat "website tugas" membangun sebuah etalase digital yang fungsional dan menjual. Kami ingin menciptakan sebuah *landing page* yang tidak hanya cantik secara visual, tapi juga mampu mengkonversi pengunjung menjadi pelanggan.
 
 Kami sengaja menghilangkan *barrier* (hambatan) seperti form kontak yang rumit, dan menggantinya dengan **CTA (Call to Action) langsung ke WhatsApp**. Ini adalah strategi *direct-conversion* yang paling efektif untuk bisnis UMKM di Indonesia.
 
