@@ -1,10 +1,6 @@
 # Apsari Patisserie — Final Project BWD02
 ### Manis yang Dibuat dengan Hati 🍪
-
-Selamat datang di repositori Apsari Patisserie, sebuah *company profile* berjenis *one-page website* yang kami desain untuk UMKM (fiktif) toko kue kering premium.
-
-Proyek ini adalah tugas akhir untuk mata kuliah Basic Web Development (BWD02) dari Kelompok 2 (esteh 33x).
-
+ 
 ---
 
 ### Visi Proyek
