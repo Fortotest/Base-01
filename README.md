@@ -1,6 +1,4 @@
 # Apsari Patisserie — Final Project BWD02
-### Manis yang Dibuat dengan Hati 🍪
- 
 ---
 
 ### Visi Proyek
