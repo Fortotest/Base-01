@@ -1,50 +1,83 @@
-# Apsari Patisserie — Final Project BWD02
+# 🍪 Apsari Patisserie — Final Project BWD02
 ---
 
-### Visi Proyek
+### 🎯 Visi Proyek
 
-Tujuan kami membuat "website tugas" membangun sebuah etalase digital yang fungsional dan menjual. Kami ingin menciptakan sebuah *landing page* yang tidak hanya cantik secara visual, tapi juga mampu mengkonversi pengunjung menjadi pelanggan.
+Proyek ini kami bangun buat bantu UMKM punya **etalase digital yang proper dan menjual**, bukan sekadar “tugas web HTML biasa”.  
+Kami pengin bikin website yang bukan cuma enak dilihat, tapi juga punya *conversion value* nyata — alias bisa langsung bantu jualan.
 
-Kami sengaja menghilangkan *barrier* (hambatan) seperti form kontak yang rumit, dan menggantinya dengan **CTA (Call to Action) langsung ke WhatsApp**. Ini adalah strategi *direct-conversion* yang paling efektif untuk bisnis UMKM di Indonesia.
+Alih-alih bikin form ribet yang jarang diisi, kami pilih *approach* yang lebih relevan buat market lokal:  
+**tombol CTA langsung ke WhatsApp.**  
+Simple, cepat, dan efektif buat target pasar UMKM di Indonesia — tinggal klik, langsung chat, langsung order.
 
 ---
 
-### Fitur Utama & Keunggulan Teknis
+### 💡 Fitur Utama & Keunggulan Teknis
 
-* **100% Kode Murni (Tanpa Framework):** Dibangun *from scratch* hanya menggunakan HTML5, CSS3, dan JavaScript murni (ES6+) untuk *loading* super cepat dan *full control* atas kode.
-* **Modern Hero Layout:** Mengimplementasikan desain hero profesional dimana judul (`<h1>`) berada **di atas** gambar, dan *tagline* (deskripsi) berada **di bawah** gambar. Ini memberikan *clean look* dan keterbacaan maksimal.
-* **Dynamic Flexbox Layout:** Seluruh *layout* halaman, terutama galeri 4 produk, dibangun menggunakan **CSS Flexbox**. Ini memastikan *layout* yang dinamis, rapi, dan *full-responsive* di semua ukuran layar (desktop, tablet, dan mobile).
-* **Direct-to-Chat CTA:** Alur pemesanan disederhanakan. Semua tombol "Pesan Sekarang" dan tombol kontak utama mengarah langsung ke WhatsApp bisnis (+62 856-2423-7125) dengan pesan *pre-filled* untuk *tracking*.
-* **Clean UI/UX:** Alih-alih menggunakan form, bagian kontak dibuat minimalis dengan 2 ikon sosial media (Instagram & WhatsApp) untuk *direct engagement*.
-* **Kode Berkomentar Rapi:** Setiap *section* di HTML, CSS, dan file JS (jika ada) diberi komentar yang jelas, sesuai dengan ketentuan penilaian tugas.
+✨ **100% Kode Murni (Tanpa Framework)**  
+Website ini dibangun full dari nol, cuma pakai **HTML5**, **CSS3 (Flexbox)**, dan **JavaScript ES6+**.  
+No React, no Tailwind, no jQuery — biar *lightweight*, cepat, dan tetap sesuai guideline tugas.
+
+🎨 **Modern Hero Layout**  
+Desain bagian atas dibuat dengan *clean layout*:  
+Judul utama (`<h1>`) ada di atas gambar, lalu tagline copywriting di bawahnya — biar fokus dan visual flow-nya nyaman banget pas scroll.
+
+📱 **Dynamic Flexbox Layout**  
+Semua bagian — dari produk sampai CTA — pakai Flexbox.  
+Hasilnya: tampil rapi dan tetap *responsive* di semua device (desktop, tablet, dan mobile).
+
+💬 **Direct-to-Chat CTA (Fast Conversion)**  
+Semua tombol “Pesan Sekarang” dan “Chat via WhatsApp” langsung nyambung ke nomor bisnis Apsari (+62 856-2423-7125)  
+Lengkap dengan pesan otomatis — tinggal kirim, gak pake ngetik lagi.
+
+🧁 **Simple but Elegant UI/UX**  
+Gak ada form ribet. Gak ada input yang bikin kabur.  
+Cuma dua ikon sosial media (Instagram & WhatsApp) yang langsung ngarah ke platform aslinya.  
+*User flow* dibuat sesimpel mungkin — cocok buat startup atau UMKM yang butuh hasil cepat.
+
+🧩 **Kode Berkomentar & Terstruktur Rapi**  
+Setiap bagian di HTML, CSS, dan JS udah dikasih komentar sesuai aturan tugas kuliah BWD.  
+Struktur folder juga bersih dan gampang dibaca dosen 😎.
 
 ---
 
 ### 🛠️ Tech Stack
 
-* **HTML5:** Untuk struktur halaman yang semantik.
-* **CSS3 (Flexbox):** Untuk *styling*, *layouting* dinamis, dan responsivitas.
-* **JavaScript (ES6+):** (Disediakan untuk interaktivitas di masa depan. Saat ini, file `script.js` dikosongkan karena fungsi validasi form telah dihapus sesuai *brief*.)
-* **Font Awesome (CDN):** Digunakan untuk memuat ikon profesional Instagram dan WhatsApp.
+| Teknologi | Fungsi |
+|------------|---------|
+| **HTML5** | Struktur utama halaman |
+| **CSS3 (Flexbox)** | Styling, layout dinamis, dan responsivitas |
+| **JavaScript (ES6+)** | Interaktivitas ringan dan kontrol navigasi |
+| **Font Awesome (CDN)** | Ikon Instagram & WhatsApp yang clean dan modern |
 
 ---
 
-### 📂 Struktur Folder Proyek
+### 📂 Struktur Folder 
+
+---
 
 ### 🚀 Cara Menjalankan (Lokal)
 
-1.  *Clone* atau *download* repositori ini.
-2.  Cari file `index.html`.
-3.  Klik dua kali atau buka file `index.html` langsung di *browser* (Chrome, Firefox, Safari, dll.).
+1.  Clone atau download repo ini.  
+2.  Buka folder proyek.  
+3.  Klik dua kali `index.html` → langsung kebuka di browser favorit lo (Chrome, Firefox, Edge, Safari, dll).
 
-*(Proyek ini murni client-side dan tidak memerlukan local server.)*
+💡 *Note:*  
+Gak butuh server lokal kayak XAMPP atau Node.  
+Semua file bisa jalan langsung karena ini proyek **client-side murni**.
 
 ---
 
 ### 👥 Kontributor (Kelompok 2 / esteh 33x)
 
-* **Bryan Gabriel Liem**  
-* **Fadilaturrizki**  
-* **Rayvan Nathaniel**  
-* **Apsari Yudith Vania Putri**
-* **Nur Alief Syach Putra** 
+- **Bryan Gabriel Liem**  
+- **Fadilaturrizki**  
+- **Rayvan Nathaniel**  
+- **Apsari Yudith Vania Putri**  
+- **Nur Alief Syach Putra**
+
+---
+
+> “Good design is honest, good code is clean — and good cookies are handmade.”  
+> — *Team esteh 33x*
+
