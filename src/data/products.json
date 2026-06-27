@@ -478,5 +478,28 @@
       ""
     ],
     "soldCount": 0
+  },
+  {
+    "id": 1782569006579,
+    "name": "New Cookie",
+    "tagline": "Delicious Taste",
+    "description": "Brief description of the cookie.\n• Info 1\n• Komposisi...",
+    "details": "Toples • 300ml / 600ml",
+    "shipping": "Dikirim dari Yogyakarta",
+    "price": "Rp 0",
+    "image": "https://raw.githubusercontent.com/Fortotest/BWD02-base/2a4996a381d0bd8f45a74f5f49622da47ab23003/c7084c08-31bd-48cc-90d0-727aec21680a.jpeg",
+    "badge": "🆕",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya mau pesan produk ini!",
+    "imagePosition": "center",
+    "imageScale": 1,
+    "isSignature": false,
+    "galleryImages": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "soldCount": 0
   }
 ]
