@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "isSignature": true,
+    "name": "Kastengel Luxe",
+    "tagline": "The Cheesy Classic",
+    "description": "Renyah, gurih, dan cheesy sampai gigitan terakhir. Dibuat dengan keju edam pilihan yang bikin beda dari yang biasa.\n• Tahan ± 3 Bulan (Suhu Ruang)\n• Komposisi Keju Edam Premium, Wijsman Butter, Tepung Terigu",
+    "details": "Toples • 300ml ±200gr",
+    "price": "Rp25.000",
+    "originalPrice": "Rp37.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%201%20Kastengel.jpeg",
+    "badge": "",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya mau pesan Kastengel Luxe.",
+    "imagePosition": "center",
+    "imageScale": 1,
+    "soldCount": 150,
+    "testimonials": [
+      {
+        "id": "t1",
+        "customerName": "Nadhira A.",
+        "reviewText": "Jujurly awalnya keracunan fyp, tapi ternyata emang seenak itu. Kejunya berasa premium ngga bikin eneg sama sekali. Teksturnya dapet banget.",
+        "rating": 4.8
+      },
+      {
+        "id": "t2",
+        "customerName": "Keshia",
+        "reviewText": "Beliin ini buat hampers ke temen kantor, packagingnya cantik! Sempet nyicip dikit, savory-nya pas ngga keasinan. Mumpung lagi ada ekstra diskon next mau nyetok.",
+        "rating": 4.7
+      },
+      {
+        "id": "t3",
+        "customerName": "Aurel S.",
+        "reviewText": "Temen setia pas lagi WFH. Suka teksturnya yang garing di luar tapi lumer pas dikunyah. Wangi butternya juga kecium banget pas buka toples.",
+        "rating": 4.8
+      },
+      {
+        "id": "t4",
+        "customerName": "Vania",
+        "reviewText": "Sebagai pecinta keju garis keras, ini approved sih. Cuma kurir pengirimannya agak lama kemaren, untungnya kuenya aman ngga hancur. Rasanya juara.",
+        "rating": 4.6
+      },
+      {
+        "id": "t5",
+        "customerName": "Salsabila",
+        "reviewText": "Pantesan udah kejual 150 lebih, emang seenak itu woy! Edam-nya kerasa, bukan cuma dominan rasa terigu doang.",
+        "rating": 4.8
+      },
+      {
+        "id": "t6",
+        "customerName": "Tiara",
+        "reviewText": "Gue jarang nemu kastengel yang ngga bikin pusing abis makan 3 biji. Yang ini beda, light tapi rich. Mantap Apsari!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "isSignature": true,
+    "name": "Putri Salju",
+    "tagline": "Melting Perfection",
+    "description": "Lembut, manis, dan meleleh di mulut. Salah satu favorit pelanggan yang paling sering dipesan ulang.\n• Tahan ± 3 Bulan (Suhu Ruang)\n• Komposisi Kacang Mede Premium, Wijsman Butter, Gula Halus",
+    "details": "Toples • 300ml ±230gr",
+    "price": "Rp25.000",
+    "originalPrice": "Rp37.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%202%20Putri%20Salju%20.jpeg",
+    "badge": "",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya mau pesan Putri Salju.",
+    "imagePosition": "center",
+    "imageScale": 1,
+    "soldCount": 195,
+    "testimonials": [
+      {
+        "id": "t7",
+        "customerName": "Anya F.",
+        "reviewText": "Sumpah ini literally melting di mulut! Gula halusnya tuh dingin-dingin nagih gitu, dan manisnya ngga lebay.",
+        "rating": 4.8
+      },
+      {
+        "id": "t8",
+        "customerName": "Dinda",
+        "reviewText": "Biasanya anti banget makan putri salju karena takut giung. Tapi ini balance banget sama kuenya yang gurih buttery. Enak pol.",
+        "rating": 4.7
+      },
+      {
+        "id": "t9",
+        "customerName": "Safira",
+        "reviewText": "Kuenya aman sampe Jaksel ngga jadi bubuk, adminnya gercep pakein extra bubble wrap. Teksturnya super soft.",
+        "rating": 4.6
+      },
+      {
+        "id": "t10",
+        "customerName": "Bella",
+        "reviewText": "Comfort food gue tiap beres nugas sampe malem. Makan 2-3 biji aja udah bikin mood naik lagi. Harganya juga lumayan dapet potongan promo, luvvv.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "isSignature": true,
+    "name": "Semprit Timeless",
+    "tagline": "The Nostalgic Bite",
+    "description": "Renyah, gurih, dan cheesy sampai gigitan terakhir. Dibuat dengan keju edam pilihan yang bikin beda dari yang biasa.\n• Tahan ± 3 Bulan (Suhu Ruang)\n• Komposisi Keju Edam Premium,Wijsman Butter, Tepung Terigu",
+    "details": "Toples • 300ml / 600ml",
+    "price": "Rp12.000",
+    "originalPrice": "Rp24.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%203%20Semprit%20Kue%20klasik.jpeg",
+    "badge": "",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya mau pesan Semprit Timeless.",
+    "imagePosition": "center",
+    "imageScale": 1,
+    "soldCount": 240,
+    "testimonials": [
+      {
+        "id": "t11",
+        "customerName": "Laras",
+        "reviewText": "Perfect match banget buat ngopi sore! Kuenya garing dan rasa susunya lumayan medok tapi ngga over.",
+        "rating": 4.8
+      },
+      {
+        "id": "t12",
+        "customerName": "Alika",
+        "reviewText": "Bentuknya gemes dan rapi-rapi banget di dalem toples. Pas digigit renyah, vibe-nya klasik tapi rasanya mahal.",
+        "rating": 4.7
+      },
+      {
+        "id": "t13",
+        "customerName": "Putri N.",
+        "reviewText": "Mengingatkan kue buatan eyang tapi ini versi lebih buttery. Jujurly bikin kangen rumah. Respon sellernya juga cepet.",
+        "rating": 4.6
+      },
+      {
+        "id": "t14",
+        "customerName": "Nabila",
+        "reviewText": "Kaget harganya 12 ribu tapi kualitasnya kayak kue premium di mall. Teksturnya light banget buat ngemil pas drakoran.",
+        "rating": 4.8
+      },
+      {
+        "id": "t15",
+        "customerName": "Zeta",
+        "reviewText": "Gue suka karena manisnya super mild, jadi makan banyak juga ngga merasa berdosa wkwk. Pantes reviewnya bagus-bagus!",
+        "rating": 4.7
+      },
+      {
+        "id": "t16",
+        "customerName": "Fanya",
+        "reviewText": "Fix bakal jadi langganan. Udah nyoba beberapa merk semprit, punya Apsari tetep the best dari segi wangi sama tekstur.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "isSignature": true,
+    "name": "Palm Cheese",
+    "tagline": "The Classy Collab",
+    "description": "Kolaborasi spesial bersama Fenns Cookies. Perpaduan rasa yang unik — gurih, creamy, dan tidak biasa.\n• Tahan ± 3 Bulan (Suhu Ruang)\n• Komposisi Keju Premium, Wijsman Butter, Gula Aren",
+    "details": "Toples • 300ml ±220gr",
+    "price": "Rp25.000",
+    "originalPrice": "Rp37.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%204%20Palm%20Cheese.jpeg",
+    "badge": "",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya mau pesan Palm Cheese.",
+    "imagePosition": "center",
+    "imageScale": 1,
+    "soldCount": 285,
+    "testimonials": [
+      {
+        "id": "t17",
+        "customerName": "Valerie",
+        "reviewText": "Kaget banget rasanya bisa se-balance ini?! Gurihnya keju ketemu tekstur crunchy dari palm sugar tuh pecah banget di mulut.",
+        "rating": 4.8
+      },
+      {
+        "id": "t18",
+        "customerName": "Gisel",
+        "reviewText": "Gue tipe yang ngga suka kue aneh-aneh, tapi ini pengecualian. Caramelized arennya itu loh yang bikin beda dari cookies lain.",
+        "rating": 4.7
+      },
+      {
+        "id": "t19",
+        "customerName": "Steffi",
+        "reviewText": "Unik parah rasanya. Kemaren pesen buat dikirim ke pacar, katanya enak banget. Proses kirim H+1 sesuai deskripsi.",
+        "rating": 4.6
+      },
+      {
+        "id": "t20",
+        "customerName": "Clara",
+        "reviewText": "Layer luarnya garing karena palm sugar, tapi dalemnya tetep ngeprul. Kolab sama Fenns Cookies ini the best banget, pantes paling banyak kejual.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "isSignature": false,
+    "name": "[PO] Sustainable Canvas Totebag Hampers",
+    "tagline": "Eco-Friendly Elegance",
+    "description": "Tote bag kanvas upcycled estetik dari material Second-Hand Goods. eco-friendly kece banget buat temani kamu ngampus atau ngantor!\n• Tahan ± 7 Tahun (Suhu Ruang)\n• Tote bag kanvas upcycled steril, pita satin premium, kancing kayu, hangtag, & 2 toples signature cookies (Kastengel & Nastar).",
+    "details": "1 Tote Bag + 2 Kue 300ml",
+    "price": "Rp77.500",
+    "originalPrice": "Rp115.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Base-02/89626be2219c91651c00c99f8a26fc84e4b77f04/Hampers%20Totebag2.png%20.png",
+    "badge": "PO",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya mau pesan [PO] Sustainable Canvas Totebag Hampers.",
+    "imagePosition": "center",
+    "imageScale": 1.2,
+    "galleryImagePositions": [
+      "center",
+      "center",
+      "center",
+      "center"
+    ],
+    "galleryImageScales": [
+      1.2,
+      1.2,
+      1.2,
+      1.2
+    ],
+    "soldCount": 11,
+    "galleryImages": [
+      "https://raw.githubusercontent.com/Fortotest/Base-02/89626be2219c91651c00c99f8a26fc84e4b77f04/Hampers%20Totebag%203.png",
+      "https://raw.githubusercontent.com/Fortotest/Base-02/89626be2219c91651c00c99f8a26fc84e4b77f04/Hampers%20Totebag%201.png",
+      "https://raw.githubusercontent.com/Fortotest/Base-02/89626be2219c91651c00c99f8a26fc84e4b77f04/Hampers%20Totebag%204.png",
+      "https://raw.githubusercontent.com/Fortotest/Base-02/89626be2219c91651c00c99f8a26fc84e4b77f04/Hampers%20Totebag%205.png"
+    ],
+    "testimonials": [
+      {
+        "id": "t21",
+        "customerName": "Siti H.",
+        "location": "Depok",
+        "reviewText": "Konsep hampers-nya beneran estetik dan eco-friendly. Tote bagnya bersih wangi steril, kancing kayunya juga lucu. Kuenya lumer parah! Kasih 4.8 karena hangtag agak lecek pas di jalan, tapi overall sangat worth it.",
+        "rating": 4.8
+      },
+      {
+        "id": "t22",
+        "customerName": "Riska K.",
+        "location": "Tangerang",
+        "reviewText": "Suka banget sama packaging yang sustainable tapi tetep kelihatan mewah. Pengiriman Jogja-Jakarta aman, toplesnya utuh. Pitanya aja agak melorot dikit pas nyampe, tapi gampang dibenerin. Fix bakal pesen lagi buat kado sidang!",
+        "rating": 4.5
+      },
+      {
+        "id": "t23",
+        "customerName": "Amelia",
+        "location": "Malang",
+        "reviewText": "Rasa kuenya nggak pernah gagal, butter Wijsman-nya kerasa banget. Tote bagnya juga lumayan tebal buat dipake ngampus. Cuma karena sistemnya PO, nunggunya emang agak lumayan lama. Sisanya aman dan sesuai ekspektasi.",
+        "rating": 4.2
+      },
+      {
+        "id": "t24",
+        "customerName": "Fanya A.",
+        "location": "Tangerang",
+        "reviewText": "Kue dan tote bagnya padahal bagus banget! Sayangnya kurir ekspedisinya nyebelin parah. Masa paket hampers ditaruh di atas pager panas-panasan tanpa ngabarin? Untung toplesnya nggak jatuh ke jalan. Kualitas Apsari mantap, tapi tolong evaluasi kurirnya.",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "id": 1001,
+    "isSignature": false,
+    "name": "Kastengel Luxe",
+    "tagline": "The Cheesy Classic",
+    "description": "Renyah, gurih, dan cheesy sampai gigitan terakhir. Dibuat dengan keju edam pilihan yang bikin beda dari yang biasa.\n• Tahan ± 3 Bulan (Suhu Ruang)\n• Komposisi Keju Edam Premium, Wijsman Butter, Tepung Terigu",
+    "details": "Toples • 300ml ±200gr",
+    "price": "Rp25.000",
+    "originalPrice": "Rp37.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%201%20Kastengel.jpeg",
+    "badge": "",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya mau pesan Kastengel Luxe.",
+    "imagePosition": "center",
+    "imageScale": 1,
+    "soldCount": 150,
+    "testimonials": [
+      {
+        "id": "t1",
+        "customerName": "Nadhira A.",
+        "reviewText": "Jujurly awalnya keracunan fyp, tapi ternyata emang seenak itu. Kejunya berasa premium ngga bikin eneg sama sekali. Teksturnya dapet banget.",
+        "rating": 4.8
+      },
+      {
+        "id": "t2",
+        "customerName": "Keshia",
+        "reviewText": "Beliin ini buat hampers ke temen kantor, packagingnya cantik! Sempet nyicip dikit, savory-nya pas ngga keasinan. Mumpung lagi ada ekstra diskon next mau nyetok.",
+        "rating": 4.7
+      },
+      {
+        "id": "t3",
+        "customerName": "Aurel S.",
+        "reviewText": "Temen setia pas lagi WFH. Suka teksturnya yang garing di luar tapi lumer pas dikunyah. Wangi butternya juga kecium banget pas buka toples.",
+        "rating": 4.8
+      },
+      {
+        "id": "t4",
+        "customerName": "Vania",
+        "reviewText": "Sebagai pecinta keju garis keras, ini approved sih. Cuma kurir pengirimannya agak lama kemaren, untungnya kuenya aman ngga hancur. Rasanya juara.",
+        "rating": 4.6
+      },
+      {
+        "id": "t5",
+        "customerName": "Salsabila",
+        "reviewText": "Pantesan udah kejual 150 lebih, emang seenak itu woy! Edam-nya kerasa, bukan cuma dominan rasa terigu doang.",
+        "rating": 4.8
+      },
+      {
+        "id": "t6",
+        "customerName": "Tiara",
+        "reviewText": "Gue jarang nemu kastengel yang ngga bikin pusing abis makan 3 biji. Yang ini beda, light tapi rich. Mantap Apsari!",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "isSignature": false,
+    "name": "Putri Salju",
+    "tagline": "Melting Perfection",
+    "description": "Lembut, manis, dan meleleh di mulut. Salah satu favorit pelanggan yang paling sering dipesan ulang.\n• Tahan ± 3 Bulan (Suhu Ruang)\n• Komposisi Kacang Mede Premium, Wijsman Butter, Gula Halus",
+    "details": "Toples • 300ml ±230gr",
+    "price": "Rp25.000",
+    "originalPrice": "Rp37.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%202%20Putri%20Salju%20.jpeg",
+    "badge": "",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya mau pesan Putri Salju.",
+    "imagePosition": "center",
+    "imageScale": 1,
+    "soldCount": 195,
+    "testimonials": [
+      {
+        "id": "t7",
+        "customerName": "Anya F.",
+        "reviewText": "Sumpah ini literally melting di mulut! Gula halusnya tuh dingin-dingin nagih gitu, dan manisnya ngga lebay.",
+        "rating": 4.8
+      },
+      {
+        "id": "t8",
+        "customerName": "Dinda",
+        "reviewText": "Biasanya anti banget makan putri salju karena takut giung. Tapi ini balance banget sama kuenya yang gurih buttery. Enak pol.",
+        "rating": 4.7
+      },
+      {
+        "id": "t9",
+        "customerName": "Safira",
+        "reviewText": "Kuenya aman sampe Jaksel ngga jadi bubuk, adminnya gercep pakein extra bubble wrap. Teksturnya super soft.",
+        "rating": 4.6
+      },
+      {
+        "id": "t10",
+        "customerName": "Bella",
+        "reviewText": "Comfort food gue tiap beres nugas sampe malem. Makan 2-3 biji aja udah bikin mood naik lagi. Harganya juga lumayan dapet potongan promo, luvvv.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "isSignature": false,
+    "name": "Semprit Timeless",
+    "tagline": "The Nostalgic Bite",
+    "description": "Renyah, gurih, dan cheesy sampai gigitan terakhir. Dibuat dengan keju edam pilihan yang bikin beda dari yang biasa.\n• Tahan ± 3 Bulan (Suhu Ruang)\n• Komposisi Keju Edam Premium,Wijsman Butter, Tepung Terigu",
+    "details": "Toples • 300ml / 600ml",
+    "price": "Rp12.000",
+    "originalPrice": "Rp24.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%203%20Semprit%20Kue%20klasik.jpeg",
+    "badge": "",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya mau pesan Semprit Timeless.",
+    "imagePosition": "center",
+    "imageScale": 1,
+    "soldCount": 240,
+    "testimonials": [
+      {
+        "id": "t11",
+        "customerName": "Laras",
+        "reviewText": "Perfect match banget buat ngopi sore! Kuenya garing dan rasa susunya lumayan medok tapi ngga over.",
+        "rating": 4.8
+      },
+      {
+        "id": "t12",
+        "customerName": "Alika",
+        "reviewText": "Bentuknya gemes dan rapi-rapi banget di dalem toples. Pas digigit renyah, vibe-nya klasik tapi rasanya mahal.",
+        "rating": 4.7
+      },
+      {
+        "id": "t13",
+        "customerName": "Putri N.",
+        "reviewText": "Mengingatkan kue buatan eyang tapi ini versi lebih buttery. Jujurly bikin kangen rumah. Respon sellernya juga cepet.",
+        "rating": 4.6
+      },
+      {
+        "id": "t14",
+        "customerName": "Nabila",
+        "reviewText": "Kaget harganya 12 ribu tapi kualitasnya kayak kue premium di mall. Teksturnya light banget buat ngemil pas drakoran.",
+        "rating": 4.8
+      },
+      {
+        "id": "t15",
+        "customerName": "Zeta",
+        "reviewText": "Gue suka karena manisnya super mild, jadi makan banyak juga ngga merasa berdosa wkwk. Pantes reviewnya bagus-bagus!",
+        "rating": 4.7
+      },
+      {
+        "id": "t16",
+        "customerName": "Fanya",
+        "reviewText": "Fix bakal jadi langganan. Udah nyoba beberapa merk semprit, punya Apsari tetep the best dari segi wangi sama tekstur.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "isSignature": false,
+    "name": "Palm Cheese",
+    "tagline": "The Classy Collab",
+    "description": "Kolaborasi spesial bersama Fenns Cookies. Perpaduan rasa yang unik — gurih, creamy, dan tidak biasa.\n• Tahan ± 3 Bulan (Suhu Ruang)\n• Komposisi Keju Premium, Wijsman Butter, Gula Aren",
+    "details": "Toples • 300ml ±220gr",
+    "price": "Rp25.000",
+    "originalPrice": "Rp37.000",
+    "image": "https://raw.githubusercontent.com/Fortotest/Project-BWD02-Kelompok-Esteh-33x.base/main/Produk%204%20Palm%20Cheese.jpeg",
+    "badge": "",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya mau pesan Palm Cheese.",
+    "imagePosition": "center",
+    "imageScale": 1,
+    "soldCount": 285,
+    "testimonials": [
+      {
+        "id": "t17",
+        "customerName": "Valerie",
+        "reviewText": "Kaget banget rasanya bisa se-balance ini?! Gurihnya keju ketemu tekstur crunchy dari palm sugar tuh pecah banget di mulut.",
+        "rating": 4.8
+      },
+      {
+        "id": "t18",
+        "customerName": "Gisel",
+        "reviewText": "Gue tipe yang ngga suka kue aneh-aneh, tapi ini pengecualian. Caramelized arennya itu loh yang bikin beda dari cookies lain.",
+        "rating": 4.7
+      },
+      {
+        "id": "t19",
+        "customerName": "Steffi",
+        "reviewText": "Unik parah rasanya. Kemaren pesen buat dikirim ke pacar, katanya enak banget. Proses kirim H+1 sesuai deskripsi.",
+        "rating": 4.6
+      },
+      {
+        "id": "t20",
+        "customerName": "Clara",
+        "reviewText": "Layer luarnya garing karena palm sugar, tapi dalemnya tetep ngeprul. Kolab sama Fenns Cookies ini the best banget, pantes paling banyak kejual.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 1782568945115,
+    "name": "New Cookie",
+    "tagline": "Delicious Taste",
+    "description": "Brief description of the cookie.\n• Info 1\n• Komposisi...",
+    "details": "Toples • 300ml / 600ml",
+    "shipping": "Dikirim dari Yogyakarta",
+    "price": "Rp 0",
+    "image": "https://raw.githubusercontent.com/Fortotest/BWD02-base/2a4996a381d0bd8f45a74f5f49622da47ab23003/c7084c08-31bd-48cc-90d0-727aec21680a.jpeg",
+    "badge": "🆕",
+    "waLink": "https://wa.me/6285624237125",
+    "whatsappMessage": "Halo Apsari Patisserie, saya mau pesan produk ini!",
+    "imagePosition": "center",
+    "imageScale": 1,
+    "isSignature": false,
+    "galleryImages": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "soldCount": 0
+  }
+]
